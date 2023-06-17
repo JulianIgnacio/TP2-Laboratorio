@@ -1,0 +1,8 @@
+C:\Users\monte\Documents\Tecnicatura\TP-2-Laboratorio\Ejercicio 2\bin\Debug\Ejercicio 2.exe.config
+C:\Users\monte\Documents\Tecnicatura\TP-2-Laboratorio\Ejercicio 2\bin\Debug\Ejercicio 2.exe
+C:\Users\monte\Documents\Tecnicatura\TP-2-Laboratorio\Ejercicio 2\bin\Debug\Ejercicio 2.pdb
+C:\Users\monte\Documents\Tecnicatura\TP-2-Laboratorio\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.AssemblyReference.cache
+C:\Users\monte\Documents\Tecnicatura\TP-2-Laboratorio\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\monte\Documents\Tecnicatura\TP-2-Laboratorio\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\monte\Documents\Tecnicatura\TP-2-Laboratorio\Ejercicio 2\obj\Debug\Ejercicio 2.exe
+C:\Users\monte\Documents\Tecnicatura\TP-2-Laboratorio\Ejercicio 2\obj\Debug\Ejercicio 2.pdb
