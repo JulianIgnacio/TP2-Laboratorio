@@ -45,6 +45,7 @@ namespace ConsoleApp1
             Console.WriteLine("2-Restar");
             operacion1.op = Convert.ToInt32(Console.ReadLine());
             operacion1.Operar(operacion1.op,operacion1.n1,operacion1.n2);
+            Console.ReadKey();
         }
     }
 }
